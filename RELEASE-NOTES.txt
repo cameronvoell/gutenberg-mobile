@@ -1,3 +1,8 @@
+1.11.0
+------
+* Add rich text styling to video captions
+* Prevent keyboard dismissal when switching between caption and text block on Android
+
 1.10.0
 ------
 * Adding a block from the post title now shows the add block here indicator.
