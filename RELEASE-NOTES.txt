@@ -1,3 +1,7 @@
+1.12.0
+------
+* Tapping on empty editor area now always inserts new block at end of post
+
 1.10.0
 ------
 * Adding a block from the post title now shows the add block here indicator.
